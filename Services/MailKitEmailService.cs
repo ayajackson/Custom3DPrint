@@ -4,7 +4,7 @@ using MailKit.Net.Smtp;
 using MimeKit;
 using Custom3DPrints.Models;
 
-namespace Custom3DPrints.Services
+namespace ThreeDPrintStore.Services
 {
     public class MailKitEmailService : IEmailService
     {
